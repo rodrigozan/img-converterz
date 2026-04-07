@@ -1,4 +1,4 @@
-# imgconv — Conversor de Imagens
+# IMG ConverterZ — Conversor de Imagens
 
 Conversor de imagensarno navegador que converte entre os principais formatos de imagem: JPG, PNG, WebP, GIF, BMP, TIFF, ICO e SVG. Todo o processamento acontece localmente no navegador — **sem upload para servidor**, sem privacidade comprometida.
 
@@ -98,4 +98,4 @@ Todas as conversões acontecem **localmente no navegador do usuário**. Nenhuma 
 
 ## Licença
 
-MIT © Phanter AI — {ano_atual}
+MIT © PhanterAI — 2026
