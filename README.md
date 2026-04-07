@@ -98,4 +98,4 @@ Todas as conversões acontecem **localmente no navegador do usuário**. Nenhuma 
 
 ## Licença
 
-MIT © PhanterAI — 2026
+MIT © **PhanterAI Creative Agency** — 2026
